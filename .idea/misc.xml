@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjectsTut/TriviaApp/app/src/main/res/drawable/correct_answer.xml" value="0.31851851851851853" />
+        <entry key="..\:/AndroidProjectsTut/TriviaApp/app/src/main/res/drawable/okay.xml" value="0.3435185185185185" />
+        <entry key="..\:/AndroidProjectsTut/TriviaApp/app/src/main/res/drawable/okay_shape.xml" value="0.3435185185185185" />
+        <entry key="..\:/AndroidProjectsTut/TriviaApp/app/src/main/res/drawable/shadow.xml" value="0.2490740740740741" />
+        <entry key="..\:/AndroidProjectsTut/TriviaApp/app/src/main/res/drawable/text_background.xml" value="0.3828125" />
+        <entry key="..\:/AndroidProjectsTut/TriviaApp/app/src/main/res/drawable/wrong_answer.xml" value="0.31851851851851853" />
+        <entry key="..\:/AndroidProjectsTut/TriviaApp/app/src/main/res/layout/activity_home.xml" value="0.3491847826086957" />
+        <entry key="..\:/AndroidProjectsTut/TriviaApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AndroidProjectsTut/TriviaApp/app/src/main/res/layout/activity_quiz.xml" value="0.264" />
+        <entry key="..\:/AndroidProjectsTut/TriviaApp/app/src/main/res/layout/activity_result.xml" value="0.264" />
+        <entry key="..\:/AndroidProjectsTut/TriviaApp/app/src/main/res/layout/item_answer.xml" value="0.25226449275362317" />
+        <entry key="..\:/AndroidProjectsTut/TriviaApp/app/src/main/res/layout/item_question.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
